@@ -86,7 +86,6 @@ print(metadata["sample_rate"])  # 44100
 
 An in-browser GUI version is also available at: [https://ghostrate-xi.vercel.app](https://ghostrate-xi.vercel.app)
 
-## Author
+## License
 
-Developed by **Jawad Amin**.
-Website: [https://ghostrate-xi.vercel.app](https://ghostrate-xi.vercel.app)
+MIT License. See [LICENSE](LICENSE) for details.
