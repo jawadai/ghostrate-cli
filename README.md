@@ -1,6 +1,4 @@
-# GhostRate CLI
-
-Audio steganography and forensic command-line tool. Embed and reveal hidden spoken voice messages inside any music track using phase mid-side inversion and phantom center balancing.
+GhostRate is an Audio steganography and forensic command-line tool. Embed and reveal hidden spoken voice messages inside any music track using phase mid-side inversion and phantom center balancing.
 
 * **Filter-Immune:** Survives external audio converters, streaming compression, resamplers, and anti-aliasing downsampling.
 * **Forensic Extraction:** Mid-side phase cancellation $(L - R)$ cancels the host music into silence, revealing the secret spoken voice with $+18\text{ dB}$ make-up gain.
