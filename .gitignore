@@ -9,3 +9,5 @@ dist_pkg/
 test_env/
 .env
 .DS_Store
+
+upload_pypi.py
